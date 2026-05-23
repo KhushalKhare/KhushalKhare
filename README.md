@@ -110,4 +110,4 @@ Because another abandoned notebook named `final_final_REAL.ipynb` is not a portf
 ## Connect
 
 LinkedIn: https://www.linkedin.com/in/khushal-khare  
-Location: Berlin, Germany****
+Location: Berlin, Germany
